@@ -25,7 +25,7 @@ This application is primarily developed using artificial intelligence. The code,
 
 ### AI Systems Used:
 - Google Gemini Experimental 1206 Model
-- Anthropic Claude 3 Sonnet via Cursor IDE
+- Anthropic Claude 3.5 Sonnet 20241022 Model via Cursor IDE
 
 ### Testing & Verification:
 I have personally conducted extensive testing on multiple Android 14 (API level 34) devices and can confidently confirm that all features work perfectly. I take full responsibility in verifying that the application meets and exceeds all performance and compatibility requirements for Android 14. You can trust that this has been rigorously validated by me on the target platform.
